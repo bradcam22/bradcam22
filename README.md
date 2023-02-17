@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradcam22
+👋 Hi, I’m @bradcam22
 
 <!---
 bradcam22/bradcam22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
